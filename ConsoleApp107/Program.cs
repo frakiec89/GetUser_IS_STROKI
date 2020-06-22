@@ -127,7 +127,7 @@ namespace ConsoleApp107
 
                 if (newUser != null) // если  юсер не  пустой  
                 {
-                    usersList.Add(newUser); // жобавим его  в  список  
+                    usersList.Add(newUser); // добавим его  в  список  
                 }
 
             }
